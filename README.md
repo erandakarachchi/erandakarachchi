@@ -1,6 +1,4 @@
-### Hi there 👋,
-
-## all this is for some 1 and 0. :boom:
+# Hi there 👋,
 
 <!--
 **erandakarachchi/erandakarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
