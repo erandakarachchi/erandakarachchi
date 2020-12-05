@@ -1,7 +1,5 @@
 # Hi there 👋,
 
-🔭 I'm currently commited to #100DaysOfCode challenge. Find my progress [here](https://github.com/erandakarachchi/100-days-of-code/blob/master/log.md)
-
 <!--
 **erandakarachchi/erandakarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
