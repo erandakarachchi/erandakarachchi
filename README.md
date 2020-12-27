@@ -1,5 +1,10 @@
 # Hi there 👋,
 
+- 🔭  I’m currently working on react-native and flutter
+
+- 💬  Ask me about flutter,react-native,android
+
+- 😄  Pronouns: He/Him
 <!--
 **erandakarachchi/erandakarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
