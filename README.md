@@ -19,6 +19,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Social
+
+![](https://img.shields.io/twitter/follow/erandakarachchi?label=Follow%20on%20Twitter&style=social)
+
 ## Reading List
 
 1. [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
