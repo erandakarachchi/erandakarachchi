@@ -6,7 +6,7 @@
 
 - 😄  Pronouns: He/Him
 
-- 🌱 I’m currently learning data structures and algorithms.
+- 🌱 I’m currently learning [data structures and algorithms.](https://github.com/erandakarachchi/dsajs)
 
 ---
 ## My Github Stats
