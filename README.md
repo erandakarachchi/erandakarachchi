@@ -6,12 +6,12 @@
 
 - 😄  Pronouns: He/Him
 
-- 🌱 I’m currently learning [data structures and algorithms.](https://github.com/erandakarachchi/dsajs)
+- 🌱 I’m currently learning [data structures and algorithms.](https://repl.it/repls/folder/DSA)
 
 ---
 ## My Github Stats
 
-![Eranda's github stats](https://repl.it/repls/folder/DSA)
+![Eranda's github stats](https://github-readme-stats.vercel.app/api?username=erandakarachchi&show_icons=true&theme=dark)****)
 
 ---
 
