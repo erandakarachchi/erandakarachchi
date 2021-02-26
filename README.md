@@ -11,7 +11,7 @@
 ---
 ## My Github Stats
 
-![Eranda's github stats](https://github-readme-stats.vercel.app/api?username=erandakarachchi&show_icons=true&theme=dark)
+![Eranda's github stats](https://repl.it/repls/folder/DSA)
 
 ---
 
