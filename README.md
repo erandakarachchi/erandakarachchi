@@ -1,8 +1,8 @@
 # Hi there 👋,
 
-- 🔭  I’m currently working on react-native and flutter and android.
+- 🔭  I’m currently working on JS related stuff.
 
-- 💬  Ask me about flutter,react-native,android
+- 💬  Ask me about React JS, Node JS, Mongo db 
 
 - 😄  Pronouns: He/Him
 
