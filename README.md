@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erandakarachchi&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=erandakarachchi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=erandakarachchi&theme=radical&no-frame=false&no-bg=false&margin-w=16&margin-h=16)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erandakarachchi&icon=0&color=3)](https://visitcount.itsvg.in)
