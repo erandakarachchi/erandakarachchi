@@ -1,12 +1,8 @@
-# Hi👋, I'm Eranda
+# Hello, folks!👋,
 
 ## :blush: About me
 
-- 🔭  I’m currently working on JS related stuff.
-
-- 💬  Ask me about React JS, Node JS, Mongo db 
-
-- 😄  Pronouns: He/Him
+My name is Eranda and I'm a software developer. I'm from sri lanka and currently working for 99x
 
 ## :page_with_curl: Blog
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/caspergeek) 
