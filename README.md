@@ -1,7 +1,5 @@
 # Hello folks👋,
 
-## About me
-
 My name is Eranda and I'm a software developer. I'm from sri lanka and currently working for 99x
 
 ## :page_with_curl: Blog
