@@ -42,6 +42,6 @@
 <hr>
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erandakarachchi&theme=radical&text_color=ffeaa7" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erandakarachchi&theme=radical&background=2D3436&ring=FFEAA7&fire=FFEAA7&sideNums=FFEAA7&dates=FFEAA7&sideLabels=fff" width="80%"/>
 
 </div>
