@@ -34,4 +34,14 @@
   <hr>
   </div>
  
-<a href="http://www.github.com/erandakarachchi"><img src="https://activity-graph.herokuapp.com/graph?username=erandakarachchi&bg_color=15133C&color=ffffff&line=EC994B&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/erandakarachchi"><img src="https://activity-graph.herokuapp.com/graph?username=erandakarachchi&bg_color=2d3436&color=ffeaa7&line=ffeaa7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+<div align="center">
+
+<hr>
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erandakarachchi&theme=radical&text_color=ffeaa7" width="80%"/>
+
+</div>
