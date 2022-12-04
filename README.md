@@ -1,4 +1,4 @@
-![](./hi.png)
+![](./cover.png)
 
 
 <div align="center">
