@@ -9,6 +9,14 @@
   
  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/7704650/emkarachchi)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emkarachchi/)  [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://emkarachchi.medium.com/)  [![Replit](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@erandakarachchi)  [![Dev.Tp](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/caspergeek)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/erandakarachchi)
 
+<hr>
+  
+<div align="center">
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erandakarachchi&theme=radical&background=2D3436&ring=FFEAA7&fire=FFEAA7&sideNums=FFEAA7&dates=FFEAA7&sideLabels=fff" width="80%"/>
+
+</div>
   
  <hr>
   
@@ -31,14 +39,8 @@
 ![](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![](https://img.shields.io/badge/esbuild-FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
 ![](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
-  <hr>
-  </div>
- 
-
-<div align="center">
-
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erandakarachchi&theme=radical&background=2D3436&ring=FFEAA7&fire=FFEAA7&sideNums=FFEAA7&dates=FFEAA7&sideLabels=fff" width="80%"/>
 
 </div>
+ 
+
 
