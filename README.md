@@ -18,7 +18,7 @@
 
 </div>
   
- <hr>
+<hr>
   
  
  ### Tech Stack
