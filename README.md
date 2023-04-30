@@ -8,13 +8,27 @@
 <div align="left">
 As a Software developer with 4+ years of experience, I am skilled in using AWS, Serverless, Node.js, React JS and many Javascript based technologies to build scalable, high-performance web applications. In my current role, I have successfully designed and implemented several serverless architectures, resulting in reduced costs and improved reliability for our clients. I am excited about the potential of these technologies and am always looking for opportunities to learn and grow as a developer.
 </div>
-    
-  ### Find Me On
+
+ ### Recent Blog Posts
+<hr>
+<div align="left">
+<a href="https://medium.com/towards-aws/save-big-on-serverless-5-ways-to-reduce-your-aws-lambda-costs-45675d32b9ed" target="_blank">Save Big on Serverless: 5 Ways to Reduce Your AWS Lambda Costs</a>
+<br>
+<a href="https://medium.com/towards-aws/beginners-guide-to-running-docker-containers-on-aws-lambda-part-1-f7e0a402b168" target="_blank">Beginner’s Guide to Running Docker Containers on AWS Lambda — Part 1</a>
+<br>
+<a href="https://medium.com/towards-aws/beginners-guide-to-running-docker-containers-on-aws-lambda-part-2-f866fe1aa16c" target="_blank">Beginner’s Guide to Running Docker Containers on AWS Lambda — Part 2</a>
+<br>
+<a href="https://medium.com/@caspergeek/create-routing-app-coverage-file-for-apple-app-store-submission-684e03d22a73" target="_blank">Create Routing App Coverage file for apple app store submission</a>
+<br>
+</div>
+
+### Find Me On
 <hr>
   
  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/7704650/emkarachchi)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emkarachchi/)  [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)]([https://emkarachchi.medium.com/](https://caspergeek.medium.com/))  [![Replit](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@erandakarachchi)  [![Dev.Tp](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/caspergeek)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/erandakarachchi)
 
 <hr>
+
   
 <div align="center">
 
