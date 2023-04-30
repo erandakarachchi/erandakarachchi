@@ -8,7 +8,7 @@
 <div align="left">
 As a Software developer with 4+ years of experience, I am skilled in using AWS, Serverless, Node.js, React JS and many Javascript based technologies to build scalable, high-performance web applications. In my current role, I have successfully designed and implemented several serverless architectures, resulting in reduced costs and improved reliability for our clients. I am excited about the potential of these technologies and am always looking for opportunities to learn and grow as a developer.
 </div>
-
+    
   ### Find Me On
 <hr>
   
